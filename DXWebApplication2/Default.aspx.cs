@@ -18,7 +18,7 @@ namespace DXWebApplication2
         }
 
 
-        // Sorry i made it hard coded because i have commitments and i get some issues but i don't have time 
+        // Sorry i made it hard coded because i have commitments and i get some issues but i don't have time to do
 
         [System.Web.Services.WebMethod]
         public static string GetIndexData(int indexNumber)
